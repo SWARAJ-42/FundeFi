@@ -1,2 +1,2 @@
-# FundeFi
-Funding Platform for college organisations.
+# HoneyBase
+Your Data Broker.
